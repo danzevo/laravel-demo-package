@@ -1,5 +1,5 @@
 ## laravel demo package
-this demo to implement package from https://github.com/danzevo/laravel-package-api
+build with laravel v.7.0. this demo to implement package from https://github.com/danzevo/laravel-package-api
 
 feature : 
 1. rest api
