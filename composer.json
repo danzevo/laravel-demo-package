@@ -11,10 +11,10 @@
         "php": "^7.2.5",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^1.0",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^6.3|^7.4",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
-        "jwalbeli/crudapi": "^1.0.0"
+        "jwalbeli/crudapi": "^1.1.0"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
